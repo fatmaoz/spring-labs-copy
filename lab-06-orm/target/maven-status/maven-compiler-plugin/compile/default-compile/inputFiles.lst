@@ -1,0 +1,15 @@
+/Users/fatma/IdeaProjects/spring-labs/lab-06-orm/src/main/java/com/cydeo/lab06orm/entity/Discount.java
+/Users/fatma/IdeaProjects/spring-labs/lab-06-orm/src/main/java/com/cydeo/lab06orm/enums/DiscountType.java
+/Users/fatma/IdeaProjects/spring-labs/lab-06-orm/src/main/java/com/cydeo/lab06orm/entity/Order.java
+/Users/fatma/IdeaProjects/spring-labs/lab-06-orm/src/main/java/com/cydeo/lab06orm/enums/CartState.java
+/Users/fatma/IdeaProjects/spring-labs/lab-06-orm/src/main/java/com/cydeo/lab06orm/Lab06OrmApplication.java
+/Users/fatma/IdeaProjects/spring-labs/lab-06-orm/src/main/java/com/cydeo/lab06orm/entity/Customer.java
+/Users/fatma/IdeaProjects/spring-labs/lab-06-orm/src/main/java/com/cydeo/lab06orm/entity/BaseEntity.java
+/Users/fatma/IdeaProjects/spring-labs/lab-06-orm/src/main/java/com/cydeo/lab06orm/entity/Balance.java
+/Users/fatma/IdeaProjects/spring-labs/lab-06-orm/src/main/java/com/cydeo/lab06orm/entity/Product.java
+/Users/fatma/IdeaProjects/spring-labs/lab-06-orm/src/main/java/com/cydeo/lab06orm/entity/Cart.java
+/Users/fatma/IdeaProjects/spring-labs/lab-06-orm/src/main/java/com/cydeo/lab06orm/entity/Payment.java
+/Users/fatma/IdeaProjects/spring-labs/lab-06-orm/src/main/java/com/cydeo/lab06orm/entity/CartItem.java
+/Users/fatma/IdeaProjects/spring-labs/lab-06-orm/src/main/java/com/cydeo/lab06orm/entity/Category.java
+/Users/fatma/IdeaProjects/spring-labs/lab-06-orm/src/main/java/com/cydeo/lab06orm/entity/Address.java
+/Users/fatma/IdeaProjects/spring-labs/lab-06-orm/src/main/java/com/cydeo/lab06orm/enums/PaymentMethod.java
